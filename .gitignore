@@ -1,0 +1,4 @@
+target
+.tags*
+*.bf.S
+a.out
