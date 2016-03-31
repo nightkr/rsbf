@@ -1,1 +1,3 @@
-echo 'test'
+stage "Build" {
+  sh "cargo build"
+}
